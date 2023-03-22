@@ -19,3 +19,6 @@ info:
   app:
     name: my-actuator
     version: 0.0.1-SNAPSHOT
+logging:
+  level:
+    hello.controller: debug

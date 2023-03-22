@@ -4,8 +4,8 @@ management:
       enabled: true
     os:
       enabled: true
-#    env:
-#      enabled: true
+    env:
+      enabled: true
   endpoints:
     web:
       exposure:
@@ -19,3 +19,6 @@ info:
   app:
     name: my-actuator
     version: 0.0.1-SNAPSHOT
+logging:
+  level:
+    hello.controller: debug
