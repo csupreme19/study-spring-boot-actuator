@@ -1,4 +1,4 @@
-package hello.order.v0;
+package hello.controller;
 
 import hello.order.OrderService;
 import lombok.RequiredArgsConstructor;
