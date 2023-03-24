@@ -1,6 +1,6 @@
 management:
   server:
-    port: 9090
+    port: 8080
   info:
     java:
       enabled: true
